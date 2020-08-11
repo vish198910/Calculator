@@ -1,3 +1,7 @@
+
+def subtraction(a, b): 
+    return b-a 
+
 def multiplication(a,b):
 	return(a*b)
 
