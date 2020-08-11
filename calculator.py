@@ -1,3 +1,6 @@
+def addition (a, b):
+    print(a + b)
+
 
 def subtraction(a, b): 
     return b-a 
@@ -26,4 +29,3 @@ def Division(a,b):
     print(a/b)            
 
     
-
