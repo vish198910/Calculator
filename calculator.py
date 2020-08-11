@@ -1,7 +1,11 @@
+def multiplication(a,b):
+	return(a*b)
+
 a = int(input())
 b = int(input())
 
 fun = input()
+
 
 if (fun == "a"):
     addition(a,b)
@@ -16,3 +20,6 @@ elif(fun == "d"):
 
 def Division(a,b):
     print(a/b)            
+
+    
+
